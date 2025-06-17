@@ -43,3 +43,4 @@ Part / Chapter #|Title|Directory|1<sup>st</sup> ed. Chapter&nbsp;#
 22|Dynamic Attributes and Properties|[22-dyn-attr-prop](22-dyn-attr-prop)|19
 23|Attribute Descriptors|[23-descriptor](23-descriptor)|20
 24|Class Metaprogramming|[24-class-metaprog](24-class-metaprog)|21
+
